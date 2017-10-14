@@ -16,9 +16,13 @@ Tạo ra TreeView bên trái, ListView bên phải.
 - Bấm đôi vào sẽ thấy thư mục con và file
 - Bấm đôi vào sẽ mở file
 - Hiển thị thông tin của thư mục và tập tin
+
 **Các việc chưa làm được:**
+
  Chưa làm được một số yêu cầu nâng cao: set icon, xử lý thư mục, phím hỗ trợ.
+ 
 **Các luồng sự kiện chính:**
+
 1. Tree view:
 - Chạy chương trình lên, hiển thị node This PC trên TreeView bên trái ở trạng thái collapse (thu gọn). Bấm vào sẽ xổ xuống các node con là danh sách ổ đĩa.
 - Bấm vào ổ đĩa C đang ở trạng thái collapse(thu gọn) trong TreeView bên trái sẽ xổ xuống danh sách các thư mục con.
