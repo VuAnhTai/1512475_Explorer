@@ -25,6 +25,7 @@ Tạo ra TreeView bên trái, ListView bên phải.
 2. List view:
 - Bấm đôi vào thư mục sẽ hiện ra thư mục con và file
 - Bấm đôi vào file sẽ mở file đó
+
 [link github](https://github.com/VuAnhTai/1512475_Explorer.git)
 
 [link demo youtube](https://www.youtube.com/watch?v=BqsU3f6_Sd8&t=9s)
