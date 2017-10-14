@@ -1,0 +1,3 @@
+﻿  Explorer.cpp
+c:\users\welcome\source\repos\1512475_explorer\explorer\explorer.cpp(222): warning C4101: 'nCurSelIndex': unreferenced local variable
+  Explorer.vcxproj -> C:\Users\Welcome\source\repos\1512475_Explorer\Debug\Explorer.exe
